@@ -33,4 +33,5 @@
 
 包括以下内容：
 
-* 
+* [Stacking的学习](https://github.com/Ti-Ho/MyIPythonNotebook/tree/master/机器学习/StackingFile)
+
