@@ -19,5 +19,18 @@
 
 基于[清华计算机博士带你学-Python金融量化分析](https://www.bilibili.com/video/BV1i741147LS?p=1)的学习
 
+包括以下内容：
+
+* [MyIPythonNotebook/Python金融量化分析基础](https://github.com/Ti-Ho/MyIPythonNotebook/tree/master/Python金融量化分析基础)
+
 ### 三、机器学习
 
+#### 1. stacking学习
+
+`stacking`：`stacking`是一种分层模型集成框架。以两层为例，**第一层**由**多个基学习器**组成，其输入为原始训练集，**第二层**的模型则是以**第一层基学习器的输出作为特征加入训练集进行再训练**，从而得到完整的stacking模型。stacking的方法在各大数据挖掘比赛上都很风靡，模型融合之后能够小幅度地提高模型的预测准确度。
+
+参考：[stacking原理及在python中的实现](https://www.bilibili.com/video/BV1Dz4y1Q7mW?p=1)
+
+包括以下内容：
+
+* 
