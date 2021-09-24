@@ -29,15 +29,15 @@
 
 ##### 1. Bagging
 
-参考内容：[集成学习：XGBoost, lightGBM](https://www.bilibili.com/video/BV1Ca4y1t7DS?from=search&seid=5284724199066961288&spm_id_from=333.337.0.0)
+参考内容：[集成学习：XGBoost, lightGBM](https://www.bilibili.com/video/BV1Ca4y1t7DS?from=search&seid=5284724199066961288&spm_id_from=333.337.0.0)、[集成学习详解](https://mp.weixin.qq.com/s/clNVCXxNkAUsQC-oHL2b2g) 
 
-包括：
+包括：`随机森林`
 
 ##### 2. Boosting
 
-参考内容：[集成学习：XGBoost, lightGBM](https://www.bilibili.com/video/BV1Ca4y1t7DS?from=search&seid=5284724199066961288&spm_id_from=333.337.0.0)
+参考内容：[集成学习：XGBoost, lightGBM](https://www.bilibili.com/video/BV1Ca4y1t7DS?from=search&seid=5284724199066961288&spm_id_from=333.337.0.0)、[集成学习详解](https://mp.weixin.qq.com/s/clNVCXxNkAUsQC-oHL2b2g) 
 
-包括：
+包括：`Adaboost`,`GBDT`, `XGBoost`, `lightGBM`
 
 ##### 3. Stacking
 
